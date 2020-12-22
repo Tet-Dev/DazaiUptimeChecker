@@ -7,7 +7,7 @@ sites:
   - name: Dazai Site
     url: https://dazai.app
   - name: Dazai Bot
-    url: https://api.dazai.app:8080/getPerms
+    url: https://api.dazai.app:8080/api/getCommands
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
