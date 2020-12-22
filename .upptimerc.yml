@@ -9,9 +9,13 @@ sites:
   - name: Dazai Discord Bot
     url: https://api.dazai.app:8080/uptime.html
     method: GET
+    headers:
+    - "Content-Type: application/json"
   - name: Dazai API
     url: https://api.dazai.app:8080/api/getPerms
     method: GET
+    headers:
+    - "Content-Type: application/json"
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
 #   cname: demo.upptime.js.org
