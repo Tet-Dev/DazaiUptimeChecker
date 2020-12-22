@@ -6,8 +6,8 @@ repo: DazaiUptimeChecker # Your Github repository name
 sites:
   - name: Dazai Site
     url: https://dazai.app
-  - name: Dazai Bot
-    url: https://api.dazai.app:8080/api/getCommands
+  - name: Dazai Discord Bot
+    url: http://api.dazai.app:8080/uptime.html
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
