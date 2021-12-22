@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 190,
-    "timeDay": 208,
-    "timeWeek": 178,
-    "timeMonth": 196,
-    "timeYear": 190,
+    "time": 189,
+    "timeDay": 60,
+    "timeWeek": 164,
+    "timeMonth": 192,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2021-06-08": 29
     }
@@ -35,9 +35,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dazai API",
@@ -55,8 +53,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-22": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
