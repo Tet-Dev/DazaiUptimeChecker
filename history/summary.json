@@ -4,18 +4,20 @@
     "url": "https://dazai.app",
     "icon": "https://favicons.githubusercontent.com/dazai.app",
     "slug": "dazai-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 115,
-    "timeWeek": 192,
-    "timeMonth": 200,
+    "timeDay": 116,
+    "timeWeek": 182,
+    "timeMonth": 198,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Dazai Discord Bot",
