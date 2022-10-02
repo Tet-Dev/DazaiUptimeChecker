@@ -2,7 +2,7 @@
   {
     "name": "Dazai Site",
     "url": "https://dazai.app",
-    "icon": "https://favicons.githubusercontent.com/dazai.app",
+    "icon": "https://icons.duckduckgo.com/ip3/dazai.app.ico",
     "slug": "dazai-site",
     "status": "up",
     "uptime": "99.99%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 187,
-    "timeDay": 293,
-    "timeWeek": 157,
-    "timeMonth": 180,
+    "time": 188,
+    "timeDay": 253,
+    "timeWeek": 180,
+    "timeMonth": 183,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2022-07-01": 19,
@@ -24,7 +24,7 @@
   {
     "name": "Dazai Discord Bot",
     "url": "https://api.dazai.app:8080/uptime.html",
-    "icon": "https://favicons.githubusercontent.com/api.dazai.app",
+    "icon": "https://icons.duckduckgo.com/ip3/api.dazai.app.ico",
     "slug": "dazai-discord-bot",
     "status": "down",
     "uptime": "100.00%",
@@ -42,7 +42,7 @@
   {
     "name": "Dazai API",
     "url": "https://api.dazai.app:8080/api/getPerms",
-    "icon": "https://favicons.githubusercontent.com/api.dazai.app",
+    "icon": "https://icons.duckduckgo.com/ip3/api.dazai.app.ico",
     "slug": "dazai-api",
     "status": "down",
     "uptime": "100.00%",
