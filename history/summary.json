@@ -4,19 +4,19 @@
     "url": "https://dazai.app",
     "icon": "https://icons.duckduckgo.com/ip3/dazai.app.ico",
     "slug": "dazai-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.99%",
-    "time": 193,
-    "timeDay": 209,
-    "timeWeek": 196,
-    "timeMonth": 203,
+    "uptimeDay": "90.54%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
+    "time": 194,
+    "timeDay": 218,
+    "timeWeek": 202,
+    "timeMonth": 205,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-11-18": 55
+      "2025-11-18": 136
     }
   },
   {
